@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0312/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無明慧性禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1378.xml
+    old_id: X70n1378
+hash: sha256:fa466e3a6a709d96bdf881fb386bd93701025e8a68faefa0c72039a806654c5a

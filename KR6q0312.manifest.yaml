@@ -1,0 +1,312 @@
+canonical_identifier: bkk:krp/KR6q0312/v1
+canonical_location: https://kanripo.org/bkk/KR6q0312/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 無明慧性禪師語錄
+  identifiers:
+    alt_id:
+    - X70n1378
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1378.xml
+    old_id: X70n1378
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0312_000.yaml, hash: 'sha256:fa466e3a6a709d96bdf881fb386bd93701025e8a68faefa0c72039a806654c5a'}
+  - {seq: 1, filename: KR6q0312_001.yaml, hash: 'sha256:86d2e19ddb8c6d9f308e3331a60daca35cfc73e438a8b25ea7c44257aaa43b00'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0312_001.markers.yaml, hash: 'sha256:909c271261fca2e45bf4abf4e064e781152c50ae6037a892dc47915b80936784'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8425
+  label: 大宋無明慧性禪師語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-2
+    span:
+    - body
+    - 124
+    - 124
+  label: No. 1378-A 無明性和尚語錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-3
+    span:
+    - body
+    - 244
+    - 244
+  label: 蘄州資福禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-4
+    span:
+    - body
+    - 1066
+    - 1066
+  label: 蘄州北山智度禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-5
+    span:
+    - body
+    - 1514
+    - 1514
+  label: 南康軍廬山歸宗能仁禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-6
+    span:
+    - body
+    - 2474
+    - 2474
+  label: 南康軍廬山開先華藏禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-7
+    span:
+    - body
+    - 3548
+    - 3548
+  label: 南康軍廬山棲賢寶覺禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-8
+    span:
+    - body
+    - 4392
+    - 4392
+  label: 平江府陽山尊相禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-9
+    span:
+    - body
+    - 5550
+    - 5550
+  label: 平江府雙塔壽寧萬歲禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-10
+    span:
+    - body
+    - 6179
+    - 6179
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-11
+    span:
+    - body
+    - 6181
+    - 6181
+  label: 趙州見二菴主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-12
+    span:
+    - body
+    - 6215
+    - 6215
+  label: 外道問佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-13
+    span:
+    - body
+    - 6247
+    - 6247
+  label: 開口不在舌頭上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-14
+    span:
+    - body
+    - 6272
+    - 6272
+  label: 大力量人擡脚不起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-15
+    span:
+    - body
+    - 6304
+    - 6304
+  label: 大力量人脚下紅線不斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-16
+    span:
+    - body
+    - 6330
+    - 6330
+  label: 溈山󳫴運推移
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-17
+    span:
+    - body
+    - 6363
+    - 6363
+  label: 南泉斬猫兒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-18
+    span:
+    - body
+    - 6396
+    - 6396
+  label: 法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-19
+    span:
+    - body
+    - 6398
+    - 6398
+  label: 寄顏一齊居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-20
+    span:
+    - body
+    - 7110
+    - 7110
+  label: 寄顏一齋閤內寂室方氏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-21
+    span:
+    - body
+    - 7148
+    - 7148
+  label: 付淨徹首座竹篦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-22
+    span:
+    - body
+    - 7183
+    - 7183
+  label: 沈安齊草菴號常牧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-23
+    span:
+    - body
+    - 7219
+    - 7219
+  label: 自贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-24
+    span:
+    - body
+    - 7303
+    - 7303
+  label: 辭世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-25
+    span:
+    - body
+    - 7339
+    - 7339
+  label: No. 1378-B 塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-26
+    span:
+    - body
+    - 8241
+    - 8241
+  label: No. 1378-C
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0312_X_001-mulu-27
+    span:
+    - body
+    - 8267
+    - 8267
+  label: No. 1378-D 後序
+  type: mulu
+  level: 1
+hash: sha256:998462c0b11b4fd413dc01033599a65d1809085530a3834705c8f323d8adca50
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
