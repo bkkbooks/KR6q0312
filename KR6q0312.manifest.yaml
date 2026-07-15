@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0312/v1
 canonical_location: https://kanripo.org/bkk/KR6q0312/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 無明慧性禪師語錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0312_000.yaml, hash: 'sha256:fa466e3a6a709d96bdf881fb386bd93701025e8a68faefa0c72039a806654c5a'}
-  - {seq: 1, filename: KR6q0312_001.yaml, hash: 'sha256:6ef0e80afd41ed79507add53ee88ede6acd320c2a29f310ea45507d69478b86d'}
+  - {seq: 1, filename: KR6q0312_001.yaml, hash: 'sha256:6ab0c7736ce115856aef500ea9dcbeb0c5d463776ffb53fafbe13eeed94bd7f1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0312_000.markers.yaml, hash: 'sha256:d3ca2cff4b6c1caee2d996abe4249cbe6cce0ab3e73f781381e06f15f583376e'}
-  - {seq: 1, role: markers, filename: assets/KR6q0312_001.markers.yaml, hash: 'sha256:3fccc93245cf9ca43322ff46b65d8bcfbbeb4052245cbe6dcc007b8e8212acb2'}
+  - {seq: 1, role: markers, filename: assets/KR6q0312_001.markers.yaml, hash: 'sha256:189cbcc66c869d3520f1944cb56ad0e6a0d5287cf5c338e3bd8e35bbf6a4e2e8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -307,4 +307,7 @@ table_of_contents:
   label: No. 1378-D 後序
   type: mulu
   level: 1
-hash: sha256:8aa347048382240a12aa4275c79bea94024dd9ad63df2c592659493a2fac6f5c
+hash: sha256:fc073e22500e082a19e52939336ad40608d839ea19ca031ab45001734c9404f0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
